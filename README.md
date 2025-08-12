@@ -1,2 +1,2 @@
 # IMDB-Data-Analysis-with-Pandas
-A data analysis project using Python and the Pandas library to explore and summarize an IMDB movie dataset. 
+A data analysis project using Python and the Pandas library to explore and summarize an IMDB movie dataset. The analysis calculates statistics such as the highest-rated movie, the age gap between oldest and newest releases, average runtime, total gross revenue, bottom 10 movies by meta score, average ratings per genre, genre frequency distribution, and the actor with the most “star points.” Implemented entirely in a Jupyter Notebook with clear comments and Markdown explanations.
